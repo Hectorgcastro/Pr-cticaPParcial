@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Laberinto
+comment0.text=\n\ Write\ a\ description\ of\ class\ Laberinto\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=n\ maze
+comment1.target=boolean\ puedoSalir(int,\ java.lang.String[])
+comment2.params=lab\ x\ y\ xS\ yS\ n
+comment2.target=boolean\ puedoSalir(char[][],\ int,\ int,\ int,\ int,\ int)
+comment3.params=x\ y\ n
+comment3.target=boolean\ valida(int,\ int,\ int)
+comment4.params=laberinto\ a\ i\ j
+comment4.target=int\ BuscarY(java.lang.String[],\ char,\ int,\ int)
+comment5.params=laberinto\ a\ i\ j
+comment5.target=int\ BuscarX(java.lang.String[],\ char,\ int,\ int)
+comment6.params=n\ maze\ i\ j\ laberinto
+comment6.target=char[][]\ generarLab(int,\ java.lang.String[],\ int,\ int,\ char[][])
+numComments=7

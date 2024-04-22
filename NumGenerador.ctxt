@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=NumGenerador
+comment0.text=\n\ Write\ a\ description\ of\ class\ Generador\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=a\ x
+comment1.target=boolean\ puedoGenerar(java.lang.String[],\ java.lang.String)
+comment2.params=a\ aux\ i\ j
+comment2.target=boolean\ puedoGenerar(java.lang.String[],\ java.lang.String[],\ int,\ int)
+comment3.params=subCad\ aux\ z\ j
+comment3.target=boolean\ SubArr(java.lang.String[],\ java.lang.String[],\ int,\ int)
+comment4.params=aux\ x\ n
+comment4.target=java.lang.String[]\ llenar(java.lang.String[],\ java.lang.String,\ int)
+numComments=5
